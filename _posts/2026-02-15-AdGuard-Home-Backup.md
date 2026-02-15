@@ -1,6 +1,6 @@
 ---
 title: AdGuard Home Backup
-date: 2026-02-15 23:00:00
+date: 2026-02-15 22:30:00
 categories: [Homelab, AdGuard Home]
 tags: [homelab, linux, adguard home, backup, tutorial]     # TAG names should always be lowercase
 ---
