@@ -26,31 +26,31 @@ Below is a snapshot of my current homelab and some of the hardware behind it:
 
 ![My Homelab Setup](/assets/img/homelab.png){: w="350" h="200" }
 
-### Hardware Overview
+## Hardware Overview
 
-- **DeskPi 7.84-inch Touch Screen** (1280×400 TFT LCD)  
-  - Used as a dashboard display (running [*Pulse*](https://github.com/rcourtman/Pulse))
+My homelab lives in a **DeskPi RackMate T1**, it is compact, clean, and efficient. - [Check on Amazon](https://amzn.to/4tEXi4S)
 
-- **MokerLink POE-G083GS Switch**  
-  - Solid PoE switch with a good price
+> ⚠️ Some links below are Amazon affiliate links. Buying through them helps support notestack.dev at no extra cost to you.  
+> I only link to hardware I actually use in my rack.
 
-- **DeskPi Rackmate Accessories**
-  - 12-Port Patch Panel  
-  - 10-inch 2U Rack Venting Blank Panel
+### Front of the Rack
+- **DeskPi 7.84" Touch Screen** (1280×400 TFT LCD) - [Check on Amazon](https://amzn.to/4tIIpPi)
+- **MokerLink POE-G083GS Switch** - [Check on Amazon](https://amzn.to/4qzPiPZ)
+  - **RJ45 Dust Covers** - [Check on Amazon](https://amzn.to/4cgd4gH)
+- **DeskPi RackMate 12-Port Patch Panel** - [Check on Amazon](https://amzn.to/4ruqABV)
+- **DeskPi RackMate 10" 2U Venting Blank Panel** - [Check on Amazon](https://amzn.to/4bXm6yW)
+- **3D Printed Dual Raspberry Pi Rackmount** - [Check on Printables](https://www.printables.com/@yurymkomarov)
+  - **Raspberry Pi 5** - [Check on Amazon](https://amzn.to/4c30HV7)
+  - **GeeekPi P31 M.2 NVMe M-Key PoE+ HAT** - [Check on Amazon](https://amzn.to/4qAatSd)
+  - **Kingspec 256GB M.2 2230 SSD**
+- **3D Printed 8th Gen Intel NUC Rackmount** - [Check on Printables](https://www.printables.com/model/450054-8th-gen-intel-nuc-10-inch-rackmount)
+  - **Intel NUC NUC8I3BEH2** - [Check Specs](https://www.intel.com/content/dam/support/us/en/documents/mini-pcs/NUC8i3BE_NUC8i5BE_NUC8i7BE_TechProdSpec.pdf)
+- **Keystone Modules** (USB-C, HDMI and Blanks) - [Check on Amazon](https://amzn.to/4kGxlOs)
+- **Custom-made Ethernet Cables**
 
-- **3D Printed Dual Raspberry Pi Rackmount**
-
-- **Raspberry Pi 5**
-  - GeeekPi P31 M.2 NVMe M-Key PoE+ HAT  
-  - Official Active Cooler  
-  - Kingspec 256 GB M.2 2230 SSD
-
-- **Intel NUC Setup**
-  - Intel NUC NUC8I3BEH2  
-  - 3D Printed 8th Gen Intel NUC Rackmount  
-  - Running **Proxmox**
-
-- **Cabling & Details**
-  - RJ45 dust covers  
-  - Keystone modules for USB-C, HDMI, and blanks  
-  - Custom-made cables (because cable management matters :D )
+### Back of the Rack
+- **HMF Patch Panel** - [Check on Amazon](https://amzn.to/4aSglkX)
+- **3D Printed Cable Tie-Down Points** (x4) - [Check on Printables](https://www.printables.com/model/1242041-1u-rack-cable-management-velcro-tiedown-point)
+- **DeskPi RackMate Blank Panels** (x3) - [Check on Amazon](https://amzn.to/4tEYUvs)
+- **DIGITUS 4-Way Power Strip** - [Check on Amazon](https://amzn.to/4rQPCuL)
+- **DeskPi RackMate USB 5V Cooling Fan** - [Check on Amazon](https://amzn.to/4qHpb9U)
