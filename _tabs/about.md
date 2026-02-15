@@ -30,9 +30,6 @@ Below is a snapshot of my current homelab and some of the hardware behind it:
 
 My homelab lives in a **DeskPi RackMate T1**, it is compact, clean, and efficient. - [Check on Amazon](https://amzn.to/4tEXi4S)
 
-> ⚠️ Some links below are Amazon affiliate links. Buying through them helps support notestack.dev at no extra cost to you.  
-> I only link to hardware I actually use in my rack.
-
 ### Front of the Rack
 - **DeskPi 7.84" Touch Screen** (1280×400 TFT LCD) - [Check on Amazon](https://amzn.to/4tIIpPi)
 - **MokerLink POE-G083GS Switch** - [Check on Amazon](https://amzn.to/4qzPiPZ)
@@ -54,3 +51,6 @@ My homelab lives in a **DeskPi RackMate T1**, it is compact, clean, and efficien
 - **DeskPi RackMate Blank Panels** (x3) - [Check on Amazon](https://amzn.to/4tEYUvs)
 - **DIGITUS 4-Way Power Strip** - [Check on Amazon](https://amzn.to/4rQPCuL)
 - **DeskPi RackMate USB 5V Cooling Fan** - [Check on Amazon](https://amzn.to/4qHpb9U)
+
+> ⚠️ Some links are Amazon affiliate links. Buying through them helps support notestack.dev at no extra cost to you.  
+> I only link to hardware I actually use in my rack.
