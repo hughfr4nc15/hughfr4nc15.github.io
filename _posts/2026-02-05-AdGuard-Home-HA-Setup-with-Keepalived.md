@@ -1,6 +1,6 @@
 ---
 title: AdGuard Home HA Setup with Keepalived
-date: 2026-02-12 23:00:00
+date: 2026-02-05 23:00:00
 categories: [Homelab, AdGuard Home]
 tags: [homelab, linux, adguard home, dns, tutorial]     # TAG names should always be lowercase
 ---
@@ -14,7 +14,7 @@ Master: 192.168.1.10 (LXC on Proxmox)<br>
 Backup: 192.168.1.101 (Docker on Raspberry Pi 5)<br>
 
 ---
-## Installation
+## 📦 Installation
 
 ### Install Keepalived and Dependencies
 
@@ -199,7 +199,7 @@ dhcp:
 
 <br>
 
-## Uninstall / Revert Keepalived HA Setup
+## 🗑️ Uninstall / Revert Keepalived HA Setup
 
 This section explains how to safely remove Keepalived, the health check script, and revert the VIP configuration on both nodes.
 
