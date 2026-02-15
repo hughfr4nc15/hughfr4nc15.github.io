@@ -50,7 +50,7 @@ My homelab lives in a **DeskPi RackMate T1**, it is compact, clean, and efficien
 - **3D Printed Cable Tie-Down Points** (x4) - [Check on Printables](https://www.printables.com/model/1242041-1u-rack-cable-management-velcro-tiedown-point)
 - **DeskPi RackMate Blank Panels** (x3) - [Check on Amazon](https://amzn.to/4tEYUvs)
 - **DIGITUS 4-Way Power Strip** - [Check on Amazon](https://amzn.to/4rQPCuL)
-- **DeskPi RackMate USB 5V Cooling Fan** - [Check on Amazon](https://amzn.to/4qHpb9U)
-
+- **DeskPi RackMate USB 5V Cooling Fan** - [Check on Amazon](https://amzn.to/4qHpb9U)<br>
+<br>
 > ⚠️ Some links are Amazon affiliate links. Buying through them helps support notestack.dev at no extra cost to you.  
 > I only link to hardware I actually use in my rack.
