@@ -20,7 +20,7 @@ lsusb
 
 * Look for something like:
 
-```text
+```bash
 Bus 001 Device 003: ID 8087:0aaa Intel Corp. Bluetooth 9460/9560 Jefferson Peak
 ```
 
@@ -62,7 +62,7 @@ bluetoothctl list
 
 Expected output:
 
-```text
+```bash
 Controller D8:F2:CA:C3:C8:59 MAINFRAME [default]
 ```
 
@@ -88,7 +88,7 @@ bluetoothctl list
 
 Expected output:
 
-```text
+```bash
 Controller D8:F2:CA:C3:C8:59 homeassistant [default]
 ```
 
