@@ -43,6 +43,7 @@ My homelab lives in a **DeskPi RackMate T1**, it is compact, clean, and efficien
 - **3D Printed 8th Gen Intel NUC Rackmount** - [Check on Printables](https://www.printables.com/model/450054-8th-gen-intel-nuc-10-inch-rackmount)
   - **Intel NUC NUC8I3BEH2** - [Check Specs](https://www.intel.com/content/dam/support/us/en/documents/mini-pcs/NUC8i3BE_NUC8i5BE_NUC8i7BE_TechProdSpec.pdf)
 - **Keystone Modules** (USB-C, HDMI and Blanks) - [Check on Amazon](https://amzn.to/4kGxlOs)
+- **SONOFF Zigbee 3.0 USB Dongle Plus | ZBDongle-E** (Thread Firmware) - [Check on Amazon](https://amzn.to/4uLToba)
 - **Custom-made Ethernet Cables**
 
 ### Back of the Rack
