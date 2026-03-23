@@ -9,7 +9,7 @@ This guide shows how to enable and pass through the internal Intel Bluetooth on 
 
 ---
 
-## 1️⃣ Check Bluetooth Hardware in Proxmox
+## Check Bluetooth Hardware in Proxmox
 
 - SSH into your Proxmox host.
 - Verify USB devices:
@@ -38,7 +38,7 @@ dmesg | grep -i bluetooth
 
 ---
 
-## 2️⃣ Install Bluetooth Support on Proxmox
+## Install Bluetooth Support on Proxmox
 
 * Install packages:
 
@@ -68,7 +68,7 @@ Controller D8:F2:CA:C3:C8:59 MAINFRAME [default]
 
 ---
 
-## 3️⃣ Pass Bluetooth to Home Assistant VM
+## Pass Bluetooth to Home Assistant VM
 
 * Go to **VM → Hardware → Add → USB Device**.
 * Select `Intel Corp. Bluetooth 9460/9560 Jefferson Peak`.
@@ -76,7 +76,7 @@ Controller D8:F2:CA:C3:C8:59 MAINFRAME [default]
 
 ---
 
-## 4️⃣ Verify Bluetooth Inside Home Assistant
+## Verify Bluetooth Inside Home Assistant
 
 * SSH into Home Assistant OS / VM
 
@@ -101,7 +101,7 @@ scan on
 
 ---
 
-## 5️⃣ Add Bluetooth Integration in Home Assistant
+## Add Bluetooth Integration in Home Assistant
 
 * Go to **Settings → Devices & Services → Add Integration → Bluetooth**.
 * Confirm `hci0` adapter appears.
